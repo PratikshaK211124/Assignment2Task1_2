@@ -14,7 +14,7 @@ The number is odd
 Enter a number:20
 The number is even
 ------------------------------------------------------------------------------------------****************************---------------------------------------------------
-Task 2: Take number 1-50 and display the addition of all integres in the range
+Task 2: Take number 1-50 and display the addition of all integers in the range
 Description
 The Assignment2Task2.py script  takes numbers 1-50 from for loop and then sums all the integers and displays the sum of no 1-50
 
